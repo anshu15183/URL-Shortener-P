@@ -1,3 +1,3 @@
 # URL Shortener
 
-Live Here: [URL Shortener](https://anshu15183.github.io/URL-Shortener/){:target="_blank"}
+Live Here: <a href="https://anshu15183.github.io/URL-Shortener/" target="_blank">URL Shortener</a>
