@@ -15,7 +15,7 @@ async function shortenUrl() {
     try {
         // Send POST request to TinyURL API
         const response = await fetch(
-            "https://api.tinyurl.com/create?api_token=ixGSvugG5NP8egFv4JVG7YIvq2UFNCB6Alq1xVLQxFmEQXNMB44Zx6jln9xE",
+            "https://api.tinyurl.com/create?api_token="YOUR_TINYURL_API_TOKEN",
             {
                 method: "POST",
                 headers: headers,
